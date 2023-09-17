@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Umita1987
+- 👋 Hi, I’m Tanya. I am from Belarus
 - 👀 I’m interested in cinema. coding, sport
 - 🌱 I’m currently learning Pythoon
 
