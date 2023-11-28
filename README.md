@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tanya. I am from Belarus
+- 👋 Hi, I’m Tanya. I am from Belarus. Now I am living in Poland.
 - 👀 I’m interested in cinema. coding, sport
 - 🌱 I’m currently learning Pythoon
 
